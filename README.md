@@ -40,5 +40,15 @@ Access the application through a web browser.
 
 # Authors
 
-[ Shivam Ghodekar ] - Developer and Maintainer
+[ Shivam Ghodekar ] - Developer and Maintainer.
+
+# Contact
+
+If you have any questions, issues, or feedback, please don't hesitate to contact us:
+
+Email:- svghodekar1903@gmail.com
+
+Phone: +91 9309350598
+
+GitHub: https://github.com/svghodekar
 

@@ -25,19 +25,28 @@ HTML, CSS, and JavaScript for frontend development.
 # Installation
 
 Clone the repository to your local machine.
+
 Extract zip file.
+
 Open all file in VScode.
+
 Create a new MySQL database and create gym database.
+
 Import gym.sql file in the gym database.
+
 Run index.php file.
+
 Access the application through a web browser.
 
 # Security
 
 The application uses secure password hashing and input validation to prevent SQL injection.
+
 The application uses HTTPS protocol to encrypt data transmission.
+
 The application restricts access to sensitive data and features to authorized admins only.
 
 # Authors
+
 [ Shivam Ghodekar ] - Developer and Maintainer
 

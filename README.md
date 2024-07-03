@@ -48,7 +48,7 @@ If you have any questions, issues, or feedback, please don't hesitate to contact
 
 Email:- svghodekar1903@gmail.com
 
-Phone: +91 9309350598
+Instagram :- i_am_shivamghodekar
 
 GitHub: https://github.com/svghodekar
 
